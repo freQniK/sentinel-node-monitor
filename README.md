@@ -42,7 +42,7 @@ A powerful, real-time monitoring tool for Sentinel dVPN nodes with a beautiful c
 
 ## 📸 Screenshots
 
-![NodeMonitor](assets/screenshot.pngx)
+![NodeMonitor](imgs/screenshot.pngx)
 ---
 
 ## 📦 Requirements
